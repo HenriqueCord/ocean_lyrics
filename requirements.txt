@@ -1,0 +1,4 @@
+spotipy==2.25.1
+lyricsgenius==3.2.0
+
+python-dotenv
